@@ -1,58 +1,73 @@
-<h1 align="center" style="color: #39ff14;">👋 Hi, I'm @LukiDevPro</h1>
+<div align="center">
+  <h1 style="color: #39ff14; text-shadow: 0 0 5px #39ff14, 0 0 10px #39ff14, 0 0 20px #00ff88;">
+    👋 Hi, I'm @LukiDevPro
+  </h1>
 
-<h2 align="center" style="color: #39ff14;">👀 Passionate about Private Servers</h2>
+  <h2 style="color: #39ff14; text-shadow: 0 0 3px #39ff14, 0 0 6px #00ff88;">
+    👀 Passionate about Private Servers
+  </h2>
 
-<h3 align="center" style="color: #39ff14;">🌱 Currently learning Python and Java</h3>
+  <h3 style="color: #39ff14; text-shadow: 0 0 3px #00ff88;">
+    🌱 Currently learning Python and Java
+  </h3>
 
-<h4 align="center" style="color: #39ff14;">💞️ Open to collaboration on private server projects</h4>
+  <h4 style="color: #39ff14; text-shadow: 0 0 3px #00ff88;">
+    💞️ Open to collaboration on private server projects
+  </h4>
 
-<p align="center" style="color: #39ff14;">📫 Reach me on Telegram: @LukiDev or <a href="https://web.telegram.org/k/#@LukiDev" style="color: #39ff14;">https://web.telegram.org/k/#@LukiDev</a></p>
+  <p style="color: #39ff14; text-shadow: 0 0 5px #00ff88;">
+    📫 Reach me on Telegram: <strong>@LukiDevPro</strong><br>
+    <a href="https://web.telegram.org/k/#@LukiDevPro" style="color: #39ff14; text-shadow: 0 0 5px #00ff88;">
+      ➜ @LukiDevPro on Telegram
+    </a>
+  </p>
 
-<p align="center">
-    <img src="https://media.giphy.com/media/xTiTnqUxyWbsAXq7Ju/giphy.gif" alt="Private Server GIF" style="width: 50%;"/>
-</p>
+  <img src="https://media.giphy.com/media/xTiTnqUxyWbsAXq7Ju/giphy.gif" alt="Private Server GIF"
+       style="width: 50%; border-radius: 12px; box-shadow: 0 0 15px #39ff14;" />
+</div>
 
 ---
 
 ### 👨‍💻 My Tech Stack
 
-- **Languages:** Python, C#, JavaScript, Java, HTML, CSS
-- **Frameworks & Tools:** Node.js, Django, Flask, Express, MongoDB, SQLite, React, Vue.js
-- **Other Skills:** Web Development, API Development, Database Management, Game Server Setup, DevOps (Docker, Kubernetes), Cloud Computing (AWS, Azure)
+- **Languages:** Python, C#, JavaScript, Java, HTML, CSS  
+- **Frameworks & Tools:** Node.js, Django, Flask, Express, MongoDB, SQLite, React, Vue.js  
+- **Other Skills:** Web Dev, API Dev, Database Mgmt, Game Server Setup, Docker, K8s, AWS, Azure
 
 ---
 
 ### 📊 GitHub Stats
 
-![Deine GitHub-Statistiken](https://github-readme-stats.vercel.app/api?username=LukiDev17&show_icons=true)
-
-![Meistbenutzte Sprachen](https://github-readme-stats.vercel.app/api/top-langs/?username=LukiDev17&layout=compact&langs_count=10)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LukiDevPro&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LukiDevPro&layout=compact&langs_count=10&theme=radical)
 
 ---
 
 ### 🌟 Contributions
 
-- **Contributed to:** Several open-source private server projects and game development repositories. I also contribute to developing server mods for popular games.
-- **Upcoming Work:** I'm working on creating tutorials and guides for setting up private game servers, including step-by-step instructions and best practices.
+- **Contributed to:** Open-source private server & game mod projects  
+- **Upcoming:** Tutorials & guides on private game servers 🚀
 
 ---
 
 ### 📱 Contact Me
 
-Feel free to get in touch for collaboration or any project discussions:
-- **Telegram:** [@LukiDev](https://web.telegram.org/k/#@LukiDev)
-- **LinkedIn:** [LukiDev17](https://www.linkedin.com/in/lukidev17)
-- **GitHub:** [LukiDev17 on GitHub](https://github.com/LukiDev17)
+- **Telegram:** [@LukiDevPro](https://web.telegram.org/k/#@LukiDevPro)  
+- **LinkedIn:** [LukiDevPro](https://www.linkedin.com/in/lukidevpro)  
+- **GitHub:** [LukiDevPro on GitHub](https://github.com/LukiDevPro)
 
 ---
 
 ### 💬 Let's Build Together
 
-I’m always excited about new challenges and collaborations. If you’re working on a private server or have a project in mind, let’s connect!
+If you're working on something cool — especially a private server — hit me up. Let's make it shine! 💡
 
 ---
 
-<footer style="text-align: center;">
-  <p style="color: #39ff14;">Made with ❤️ by @LukiDev17</p>
-  <p><a href="https://github.com/LukiDev17" style="color: #39ff14;">GitHub Profile</a> | <a href="https://www.linkedin.com/in/lukidev17" style="color: #39ff14;">LinkedIn Profile</a></p>
-</footer>
+<div align="center" style="margin-top: 20px;">
+  <p style="color: #39ff14; font-weight: bold; text-shadow: 0 0 5px #39ff14;">Made with ❤️ by @LukiDevPro</p>
+  <p>
+    <a href="https://github.com/LukiDevPro" style="color: #39ff14; text-shadow: 0 0 4px #00ff88;">GitHub</a> |
+    <a href="https://www.linkedin.com/in/lukidevpro" style="color: #39ff14; text-shadow: 0 0 4px #00ff88;">LinkedIn</a>
+  </p>
+</div>
