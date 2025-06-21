@@ -4,7 +4,7 @@
     <em>A passionate developer diving deep into the world of <strong>Private Game Servers</strong>.<br />
     I'm driven by the challenge of understanding game mechanics and creating unique online experiences.</em>
   </p>
-  <img src="https://media.giphy.com/media/xTiTnqUxyWbsAXq7Ju/giphy.gif" alt="Coding GIF" style="width: 50%; max-width: 400px; border-radius: 12px; box-shadow: 0 0 15px #39ff14; margin-top: 15px; margin-bottom: 15px;" />
+  <img src="https://i.postimg.cc/Qth8x817/image-1.gif" alt="Coding GIF" style="width: 50%; max-width: 400px; border-radius: 12px; box-shadow: 0 0 15px #39ff14; margin-top: 15px; margin-bottom: 15px;" />
 </div>
 
 ## 🚀 About Me
