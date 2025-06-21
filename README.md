@@ -1,7 +1,7 @@
 <div align="center">
   <h1>👋 Hi, I'm @LukiDevPro</h1>
   <p>
-    <em>A passionate developer diving deep into the world of <strong>Private Game Servers</strong>. <br />
+    <em>A passionate developer diving deep into the world of <strong>Private Game Servers</strong>.<br />
     I'm driven by the challenge of understanding game mechanics and creating unique online experiences.</em>
   </p>
   <img src="https://media.giphy.com/media/xTiTnqUxyWbsAXq7Ju/giphy.gif" alt="Coding GIF" style="width: 50%; max-width: 400px; border-radius: 12px; box-shadow: 0 0 15px #39ff14; margin-top: 15px; margin-bottom: 15px;" />
@@ -9,11 +9,11 @@
 
 ## 🚀 About Me
 
-*   👀 I’m fascinated by the intricacies of game architecture, reverse engineering, and crafting unique online experiences through private servers.
-*   💻 I have a good understanding of **Python** (for scripting, backend tasks, and data processing like CSVs), **JavaScript**, and **HTML/CSS** for web interfaces.
-*   🌱 I'm currently deepening my knowledge in **C** and **C#** to expand my backend and server development skills, especially focusing on performance and low-level programming.
-*   🔜 Soon, I plan to explore more programming languages and technologies in the realm of game development and server infrastructure.
-*   💞️ I’m open to collaborations on projects involving:
+*   👀 I'm fascinated by the intricacies of game architecture, reverse engineering, and building unique online experiences through private servers.
+*   💻 I have solid experience with **Python** (for scripting, backend tasks, and data processing like CSVs), **JavaScript**, and **HTML/CSS** for web interfaces.
+*   🌱 Currently, I'm deepening my knowledge in **C** and **C#** to expand my backend and server development skills, with a special focus on performance and low-level programming.
+*   🔜 Soon, I plan to explore more programming languages and technologies in the field of game development and server infrastructure.
+*   💞️ I'm open to collaborations on projects involving:
     *   Private game server development & emulation
     *   Game modification tools
     *   Backend systems for gaming communities
@@ -23,16 +23,12 @@
 
 ## 🛠️ My Tech Stack & Skills
 
-Here's an overview of the technologies and skills I work with or am currently learning:
-
 **Languages & Web Technologies (Solid Foundations):**
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <!-- Optional: Badge for CSV if you want to highlight it, though it's more of a data format -->
-  <!-- <img src="https://img.shields.io/badge/CSV_Data-239120?style=for-the-badge&logo=json&logoColor=white" alt="CSV Data Handling"/> -->
 </p>
 
 **Currently Focusing On (Learning & Deepening):**
@@ -63,7 +59,6 @@ Here's an overview of the technologies and skills I work with or am currently le
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=LukiDevPro&show_icons=true&theme=radical&hide_border=true&rank_icon=github" alt="LukiDevPro's GitHub Stats"/>
   <br/>
-  <!-- Top Langs displays languages based on repository language. This might be inaccurate if you have many forks or small scripts. -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LukiDevPro&layout=compact&langs_count=10&theme=radical&hide_border=true" alt="LukiDevPro's Top Languages"/>
 </p>
 
