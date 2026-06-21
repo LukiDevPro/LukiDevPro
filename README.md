@@ -52,7 +52,9 @@
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LukiDevPro)
+[![GitHub Follow](https://img.shields.io/badge/Follow-LukiDevPro-100000?style=for-the-badge&logo=github&logoColor=white&label=Follow+Me)](https://github.com/LukiDevPro?tab=follow)
+
+[![GitHub](https://img.shields.io/badge/View-Profile-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LukiDevPro)
 
 </div>
 
