@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="120" viewBox="0 0 600 120">
+  <defs>
+    <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#FF0080">
+        <animate attributeName="stop-color" values="#FF0080;#7928CA;#FF0080" dur="3s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="50%" style="stop-color:#7928CA">
+        <animate attributeName="stop-color" values="#7928CA;#0070F3;#7928CA" dur="3s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" style="stop-color:#0070F3">
+        <animate attributeName="stop-color" values="#0070F3;#FF0080;#0070F3" dur="3s" repeatCount="indefinite"/>
+      </stop>
+      <animateTransform attributeName="gradientTransform" type="translate" from="-1 0" to="1 0" dur="3s" repeatCount="indefinite"/>
+    </linearGradient>
+    <linearGradient id="gradient2" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#00D2FF">
+        <animate attributeName="stop-color" values="#00D2FF;#3A7BD5;#00D2FF" dur="4s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="50%" style="stop-color:#3A7BD5">
+        <animate attributeName="stop-color" values="#3A7BD5;#00D2FF;#3A7BD5" dur="4s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" style="stop-color:#00D2FF">
+        <animate attributeName="stop-color" values="#00D2FF;#3A7BD5;#00D2FF" dur="4s" repeatCount="indefinite"/>
+      </stop>
+      <animateTransform attributeName="gradientTransform" type="translate" from="-1 0" to="1 0" dur="4s" repeatCount="indefinite"/>
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <rect width="600" height="120" fill="#0D1117"/>
+  <text x="300" y="70" font-family="Arial, sans-serif" font-size="52" font-weight="bold" fill="url(#gradient)" text-anchor="middle" filter="url(#glow)">
+    LukiDevPro
+  </text>
+  <text x="300" y="100" font-family="Arial, sans-serif" font-size="18" fill="url(#gradient2)" text-anchor="middle">
+    ✨ Coding • Creating • Innovating ✨
+  </text>
+</svg>
