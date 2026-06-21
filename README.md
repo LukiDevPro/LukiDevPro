@@ -41,26 +41,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=LukiDevPro&theme=radical&no-frame=true&column=7" />
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-![snake](https://raw.githubusercontent.com/LukiDevPro/LukiDevPro/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
-
 ## 🔗 Connect with Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LukiDevPro)
@@ -71,7 +51,7 @@
 
 ### 💜 Thanks for visiting! 
 
-![Visitors](https://api.visitorbadge.io/v1/visitors?path=LukiDevPro%2FLukiDevPro&countColor=%237C3AED&style=for-the-badge)
+[![GitHub](https://img.shields.io/badge/Follow-LukiDevPro-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LukiDevPro)
 
 </div>
 
