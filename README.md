@@ -6,8 +6,6 @@
 
 # 👋 Hi, I'm LukiDevPro!
 
-<img src="https://komarev.com/ghpvc/?username=LukiDevPro&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" alt="profile views" />
-
 ---
 
 ### 💫 About Me
