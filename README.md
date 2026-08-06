@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/header.svg" alt="LukiDevPro — backend, bots and game servers" width="100%" />
+<img src="assets/banner.svg" alt="LukiDevPro — backend, bots and game servers" width="100%" />
 
 <br/>
 
