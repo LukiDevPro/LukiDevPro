@@ -6,7 +6,6 @@
 
 <a href="https://github.com/LukiDevPro?tab=repositories"><img src="https://img.shields.io/badge/Repos-0D1117?style=for-the-badge&logo=github&logoColor=A855F7&labelColor=0D1117" alt="Repos" /></a>
 <a href="https://github.com/LukiDevPro?tab=followers"><img src="https://img.shields.io/github/followers/LukiDevPro?style=for-the-badge&color=0D1117&labelColor=0D1117&logo=github&logoColor=22D3EE&label=Followers" alt="Followers" /></a>
-<img src="https://komarev.com/ghpvc/?username=LukiDevPro&style=for-the-badge&color=7C3AED&label=Views" alt="Profile views" />
 
 </div>
 
