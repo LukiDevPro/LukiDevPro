@@ -14,14 +14,18 @@
       <stop offset="100%" stop-color="#22D3EE"/>
     </linearGradient>
 
-    <linearGradient id="sweepGrad" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#22D3EE" stop-opacity="0"/>
-      <stop offset="50%" stop-color="#A855F7" stop-opacity="1"/>
-      <stop offset="100%" stop-color="#22D3EE" stop-opacity="0"/>
+    <linearGradient id="edgeGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#22D3EE"/>
+      <stop offset="50%" stop-color="#A855F7"/>
+      <stop offset="100%" stop-color="#22D3EE"/>
     </linearGradient>
 
     <filter id="blur" x="-60%" y="-60%" width="220%" height="220%">
       <feGaussianBlur stdDeviation="45"/>
+    </filter>
+
+    <filter id="soft" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="3.5"/>
     </filter>
 
     <pattern id="dots" width="18" height="18" patternUnits="userSpaceOnUse">
@@ -35,7 +39,7 @@
     <style>
       .float-a { animation: floatA 11s ease-in-out infinite; }
       .float-b { animation: floatB 14s ease-in-out infinite; }
-      .sweep   { animation: sweep 6s linear infinite; }
+      .edge    { stroke-dashoffset: 0; animation: orbit 5.5s linear infinite; }
       .caret   { animation: blink 1.15s steps(1) infinite; }
       .bar1    { animation: pulse 4s ease-in-out infinite; }
       .bar2    { animation: pulse 4s ease-in-out infinite .5s; }
@@ -43,12 +47,12 @@
 
       @keyframes floatA { 0%,100% { transform: translate(0,0); } 50% { transform: translate(-26px,16px); } }
       @keyframes floatB { 0%,100% { transform: translate(0,0); } 50% { transform: translate(18px,-20px); } }
-      @keyframes sweep  { from { transform: translateX(-320px); } to { transform: translateX(920px); } }
+      @keyframes orbit  { to { stroke-dashoffset: -2165.16; } }
       @keyframes blink  { 0%,49% { opacity: 1; } 50%,100% { opacity: 0; } }
       @keyframes pulse  { 0%,100% { opacity: .45; } 50% { opacity: 1; } }
 
       @media (prefers-reduced-motion: reduce) {
-        .float-a, .float-b, .sweep, .caret, .bar1, .bar2, .bar3 { animation: none; }
+        .float-a, .float-b, .edge, .caret, .bar1, .bar2, .bar3 { animation: none; }
       }
     </style>
   </defs>
@@ -62,8 +66,6 @@
       <circle class="float-b" cx="880" cy="185" r="80" fill="#22D3EE" opacity="0.20"/>
       <circle class="float-b" cx="40"  cy="200" r="70" fill="#A855F7" opacity="0.14"/>
     </g>
-
-    <rect class="sweep" x="0" y="0" width="320" height="2" fill="url(#sweepGrad)"/>
 
     <!-- decorative code bars -->
     <g transform="translate(628,64)">
@@ -99,5 +101,13 @@
     </g>
 
     <rect x="0.5" y="0.5" width="899" height="199" rx="14" fill="none" stroke="#21262D"/>
+
+    <!-- light travelling around the full border; measured path length 2165.16 -->
+    <g stroke="url(#edgeGrad)" stroke-linecap="round" fill="none" stroke-dasharray="230 1935.16">
+      <rect class="edge" x="1.5" y="1.5" width="897" height="197" rx="13"
+            stroke-width="5" opacity="0.55" filter="url(#soft)"/>
+      <rect class="edge" x="1.5" y="1.5" width="897" height="197" rx="13"
+            stroke-width="2"/>
+    </g>
   </g>
 </svg>
