@@ -91,8 +91,8 @@ switch, download flow and an install walkthrough. Hand-written CSS, no framework
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=LukiDevPro&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=22D3EE&text_color=8B949E&ring_color=A855F7" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LukiDevPro&layout=compact&langs_count=6&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=8B949E" alt="Top languages" />
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=LukiDevPro&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=22D3EE&text_color=8B949E&ring_color=A855F7" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=LukiDevPro&layout=compact&langs_count=6&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=8B949E" alt="Top languages" />
 
 <br/><br/>
 
