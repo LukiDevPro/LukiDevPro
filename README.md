@@ -79,12 +79,15 @@ switch, download flow and an install walkthrough. Hand-written CSS, no framework
 
 <div align="center">
 
-<img height="165" src="https://ghstats.dev/api/card?username=LukiDevPro&hide_border=true&bg=0D1117&title_color=A855F7&icon_color=22D3EE&text=8B949E" alt="GitHub stats" />
-<img height="165" src="https://ghstats.dev/api/langs?username=LukiDevPro&layout=compact&max_langs=6&hide_border=true&bg=0D1117&title_color=A855F7&text=8B949E" alt="Top languages" />
+<img width="495" src="https://ghstats.dev/api/card?username=LukiDevPro&hide_border=true&bg=0D1117&title_color=A855F7&icon_color=22D3EE&text=8B949E&size=compact&hide=prs,issues,trend,avg,active_day,week" alt="GitHub stats" />
 
-<br/><br/>
+<br/>
 
-<img src="https://streak-stats.demolab.com?user=LukiDevPro&hide_border=true&background=0D1117&border=21262D&stroke=21262D&ring=A855F7&fire=22D3EE&currStreakLabel=A855F7&sideLabels=8B949E&dates=6E7681&currStreakNum=E6EDF3&sideNums=E6EDF3" alt="Streak" />
+<img width="495" src="https://ghstats.dev/api/langs?username=LukiDevPro&max_langs=6&hide_border=true&bg=0D1117&title_color=A855F7&text=8B949E" alt="Top languages" />
+
+<br/>
+
+<img width="495" src="https://streak-stats.demolab.com?user=LukiDevPro&hide_border=true&background=0D1117&border=21262D&stroke=21262D&ring=A855F7&fire=22D3EE&currStreakLabel=A855F7&sideLabels=8B949E&dates=6E7681&currStreakNum=E6EDF3&sideNums=E6EDF3" alt="Streak" />
 
 </div>
 
