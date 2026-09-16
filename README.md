@@ -4,7 +4,7 @@
 
 <br/>
 
-<a href="https://github.com/LukiDevPro?tab=repositories"><img src="https://img.shields.io/badge/Repos-0D1117?style=for-the-badge&logo=github&logoColor=A855F7&labelColor=0D1117" alt="Repos" /></a>
+<a href="https://github.com/LukiDevPro?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FLukiDevPro&query=%24.public_repos&label=Repos&color=0D1117&labelColor=0D1117&style=for-the-badge&logo=github&logoColor=A855F7" alt="Repos" /></a>
 <a href="https://github.com/LukiDevPro?tab=followers"><img src="https://img.shields.io/github/followers/LukiDevPro?style=for-the-badge&color=0D1117&labelColor=0D1117&logo=github&logoColor=22D3EE&label=Followers" alt="Followers" /></a>
 
 </div>
@@ -35,22 +35,11 @@ a lot quieter than the actual workload.
 
 **Languages**
 
-<p>
-<img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB&labelColor=0D1117" alt="Python" />
-<img src="https://img.shields.io/badge/C%23-0D1117?style=for-the-badge&logo=csharp&logoColor=9B7FD4&labelColor=0D1117" alt="C#" />
-<img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=0D1117" alt="JavaScript" />
-<img src="https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26&labelColor=0D1117" alt="HTML5" />
-<img src="https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6&labelColor=0D1117" alt="CSS3" />
-</p>
+<p><img src="https://skillicons.dev/icons?i=python,cs,js,html,css&theme=dark" alt="Python, C#, JavaScript, HTML5, CSS3" /></p>
 
 **Tools**
 
-<p>
-<img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032&labelColor=0D1117" alt="Git" />
-<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=E6EDF3&labelColor=0D1117" alt="GitHub" />
-<img src="https://img.shields.io/badge/VS_Code-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC&labelColor=0D1117" alt="VS Code" />
-<img src="https://img.shields.io/badge/SQLite-0D1117?style=for-the-badge&logo=sqlite&logoColor=003B57&labelColor=0D1117" alt="SQLite" />
-</p>
+<p><img src="https://skillicons.dev/icons?i=git,github,vscode,sqlite,discordjs&theme=dark" alt="Git, GitHub, VS Code, SQLite, discord.js" /></p>
 
 ---
 
