@@ -89,6 +89,15 @@ PHP / MySQL apps and static sites, deployed to shared hosting without a build st
 <tr>
 <td width="50%" valign="top">
 
+### [focus-board](https://github.com/LukiDevPro/focus-board)
+
+Distraction-free Pomodoro timer with a task list — one HTML file, no build step
+
+`HTML`
+
+</td>
+<td width="50%" valign="top">
+
 ### [magicbrawl.gg](https://github.com/LukiDevPro/magicbrawl.gg)
 
 Static landing page for a private game server — responsive layout, EN/RU language
@@ -97,6 +106,8 @@ switch, download flow and an install walkthrough. Hand-written CSS, no framework
 `HTML` · `CSS` · `JS`
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### [Null's Magic Color](https://github.com/LukiDevPro/Nulls-Magic-Color)
