@@ -89,6 +89,15 @@ PHP / MySQL apps and static sites, deployed to shared hosting without a build st
 <tr>
 <td width="50%" valign="top">
 
+### [neon-void](https://github.com/LukiDevPro/neon-void)
+
+Fast neon arcade space shooter that runs in your browser — one HTML file, no build step
+
+`HTML`
+
+</td>
+<td width="50%" valign="top">
+
 ### [focus-board](https://github.com/LukiDevPro/focus-board)
 
 Distraction-free Pomodoro timer with a task list — one HTML file, no build step
@@ -96,6 +105,8 @@ Distraction-free Pomodoro timer with a task list — one HTML file, no build ste
 `HTML`
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### [magicbrawl.gg](https://github.com/LukiDevPro/magicbrawl.gg)
@@ -106,8 +117,6 @@ switch, download flow and an install walkthrough. Hand-written CSS, no framework
 `HTML` · `CSS` · `JS`
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### [Null's Magic Color](https://github.com/LukiDevPro/Nulls-Magic-Color)
