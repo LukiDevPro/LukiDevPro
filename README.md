@@ -84,8 +84,19 @@ PHP / MySQL apps and static sites, deployed to shared hosting without a build st
 
 ## Public work
 
+<!-- PUBLIC-WORK:START -->
 <table>
 <tr>
+<td width="50%" valign="top">
+
+### [magicbrawl.gg](https://github.com/LukiDevPro/magicbrawl.gg)
+
+Static landing page for a private game server — responsive layout, EN/RU language
+switch, download flow and an install walkthrough. Hand-written CSS, no framework.
+
+`HTML` · `CSS` · `JS`
+
+</td>
 <td width="50%" valign="top">
 
 ### [Null's Magic Color](https://github.com/LukiDevPro/Nulls-Magic-Color)
@@ -97,18 +108,9 @@ one-click copy.
 `HTML` · `Vanilla JS` · no build step
 
 </td>
-<td width="50%" valign="top">
-
-### [magicbrawl.gg](https://github.com/LukiDevPro/magicbrawl.gg)
-
-Static landing page for a private game server — responsive layout, EN/RU language
-switch, download flow and an install walkthrough. Hand-written CSS, no framework.
-
-`HTML` · `CSS` · `JS`
-
-</td>
 </tr>
 </table>
+<!-- PUBLIC-WORK:END -->
 
 > The rest — game server backends, Discord bots and tooling — is private.
 

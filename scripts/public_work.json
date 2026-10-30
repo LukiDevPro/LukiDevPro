@@ -1,0 +1,14 @@
+{
+  "exclude": ["LukiDevPro", "test", "V31-reverse-engineering"],
+  "overrides": {
+    "Nulls-Magic-Color": {
+      "title": "Null's Magic Color",
+      "text": "A tiny browser tool that runs any text through a 3-stop color gradient and hands\nback the ready-to-paste `<cRRGGBB>` markup. Live preview, custom color pickers,\none-click copy.",
+      "tags": "`HTML` · `Vanilla JS` · no build step"
+    },
+    "magicbrawl.gg": {
+      "text": "Static landing page for a private game server — responsive layout, EN/RU language\nswitch, download flow and an install walkthrough. Hand-written CSS, no framework.",
+      "tags": "`HTML` · `CSS` · `JS`"
+    }
+  }
+}
