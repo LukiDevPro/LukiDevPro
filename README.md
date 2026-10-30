@@ -18,6 +18,9 @@ stay up: game backends, bots, and the small tools that keep them running. When a
 needs a face, I'll build the frontend too — plain HTML, CSS and vanilla JS, no framework
 unless it earns its place.
 
+I enjoy the unglamorous parts: reading packet dumps, tracing a bug through a protocol,
+and turning a fragile manual deploy into something repeatable.
+
 ```text
 focus     ·  game server backends, Discord bots, internal tooling
 languages ·  Python, C#, JavaScript
@@ -35,11 +38,47 @@ a lot quieter than the actual workload.
 
 **Languages**
 
-<p><img src="https://skillicons.dev/icons?i=python,cs,js,html,css&theme=dark" alt="Python, C#, JavaScript, HTML5, CSS3" /></p>
+<p><img src="https://skillicons.dev/icons?i=python,cs,js,php,html,css&theme=dark" alt="Python, C#, JavaScript, PHP, HTML5, CSS3" /></p>
 
 **Tools**
 
-<p><img src="https://skillicons.dev/icons?i=git,github,vscode,sqlite,discordjs&theme=dark" alt="Git, GitHub, VS Code, SQLite, discord.js" /></p>
+<p><img src="https://skillicons.dev/icons?i=git,github,vscode,sqlite,mysql,nodejs,discordjs,powershell&theme=dark" alt="Git, GitHub, VS Code, SQLite, MySQL, Node.js, discord.js, PowerShell" /></p>
+
+---
+
+## What I build
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+**Game backends**<br/>
+Custom server emulators: protocol handling, binary packet parsing, persistent player data.
+
+</td>
+<td width="33%" valign="top">
+
+**Bots & tooling**<br/>
+Discord bots, live status dashboards and the glue that keeps communities running.
+
+</td>
+<td width="33%" valign="top">
+
+**Web apps**<br/>
+PHP / MySQL apps and static sites, deployed to shared hosting without a build step.
+
+</td>
+</tr>
+</table>
+
+---
+
+## Currently
+
+- Building a PHP social photo-sharing app with accounts, feeds and uploads
+- Maintaining a Discord bot with a live status page for a modding community
+- Porting and debugging game server builds across client versions
+- Learning: async Python and cleaner project structure
 
 ---
 
@@ -77,6 +116,10 @@ switch, download flow and an install walkthrough. Hand-written CSS, no framework
 
 ## Stats
 
+<details open>
+<summary><b>GitHub activity</b></summary>
+<br/>
+
 <div align="center">
 
 <img width="495" src="https://ghstats.dev/api/card?username=LukiDevPro&hide_border=true&bg=0D1117&title_color=A855F7&icon_color=22D3EE&text=8B949E&size=compact&hide=prs,issues,trend,avg,active_day,week" alt="GitHub stats" />
@@ -91,6 +134,8 @@ switch, download flow and an install walkthrough. Hand-written CSS, no framework
 
 </div>
 
+</details>
+
 ---
 
 ## Connect
@@ -98,6 +143,7 @@ switch, download flow and an install walkthrough. Hand-written CSS, no framework
 <div align="center">
 
 <a href="https://github.com/LukiDevPro"><img src="https://img.shields.io/badge/Follow_@LukiDevPro-0D1117?style=for-the-badge&logo=github&logoColor=A855F7&labelColor=0D1117" alt="Follow on GitHub" /></a>
+<a href="https://github.com/LukiDevPro?tab=repositories"><img src="https://img.shields.io/badge/Browse_repositories-0D1117?style=for-the-badge&logo=gitbook&logoColor=22D3EE&labelColor=0D1117" alt="Browse repositories" /></a>
 
 <br/><br/>
 
